@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "schedule2s",
+  "info": {
+    "singularName": "schedule2",
+    "pluralName": "schedule2s",
+    "displayName": "schedule2"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "start_time": {
+      "type": "time"
+    },
+    "end_time": {
+      "type": "time"
+    },
+    "show_title": {
+      "type": "string"
+    }
+  }
+}

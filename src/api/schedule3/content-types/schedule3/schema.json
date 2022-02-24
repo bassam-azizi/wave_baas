@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "schedule3s",
+  "info": {
+    "singularName": "schedule3",
+    "pluralName": "schedule3s",
+    "displayName": "schedule3"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "start_time": {
+      "type": "time"
+    },
+    "end_time": {
+      "type": "time"
+    },
+    "show_title": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "schedule4s",
+  "info": {
+    "singularName": "schedule4",
+    "pluralName": "schedule4s",
+    "displayName": "schedule4"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "start_time": {
+      "type": "time"
+    },
+    "end_date": {
+      "type": "time"
+    },
+    "show_title": {
+      "type": "string"
+    }
+  }
+}
